@@ -1,20 +1,20 @@
 # Site wide configuration
 
-title: Site Title
+title: Bing's web page
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Bing He
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: ""
+  email: hebingjlu@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: #username
-  linkedin: #username
-  github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  linkedin: bing-he-63a900206
+  github: bing-he
+  orcid: 0000-0002-8273-5101
   researchgate: #username
   mendeley: #username
   google:
