@@ -1,5 +1,19 @@
 # Site navigation links
-- title: 
-  url: 
+- title: Home
+  url: /
   menuorder: 
-
+  
+- title: Publications
+  url: /publications/
+  
+- title: Presentations
+  url: /presentations/
+  
+- title: Resume/CV
+  url: /resume/
+  
+- title: Blog
+  url: /blog/
+  
+- title: Fun
+  url: /fun/
