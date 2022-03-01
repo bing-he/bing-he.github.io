@@ -3,24 +3,27 @@ layout: resume
 menuorder: 3
 menutitle: Resume
 ---
-## Currently
-
-Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2017 - Now`
+__University of Rhode Island, RI, US__
+- Graduate School of Oceanography
+- Ph.D. Candidate in Marine Geology and Geophsics
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2015 - 2017`
+__The Chinese University of Hong Kong, Hong Kong, China__
+- Master of Philosophy in Earth and Atmospheric Science
+
+`2011-2015`
+__Jilin University, Jilin, China__
+- Bachelor's Degree of Engineering in Applide Geophysics
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2018`
+McMaster Award, University of Rhode Island
+
 
 ## Publications
 
