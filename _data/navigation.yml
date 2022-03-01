@@ -1,7 +1,6 @@
 # Site navigation links
 - title: Home
   url: /
-  menuorder: 
   
 - title: Publications
   url: /publications/
