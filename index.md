@@ -4,13 +4,14 @@ excerpt: "About Me..."
 menutitle: Home
 menuorder: 1
 ---
-
+Welcome to my site!
 I am currently a Ph.D candidate at the Univerisity of Rhode Island. 
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Seafloor Geodesy
+- Slow slip event and tremor detection
+- Numerical simulation and observation of large earthquake
+- Natural hazards
+- Machine learning
+- Data science / analytics
