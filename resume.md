@@ -38,7 +38,6 @@ Excellent Student Award, Jilin University
 `2014`
 2nd Class Scholarship, Jilin University
 
-<!-- ## Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
  -->
