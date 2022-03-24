@@ -40,7 +40,7 @@ Excellent Student Award, Jilin University
 
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
- -->
+ 
 <!-- ### Journals
 
 `1994`
@@ -76,9 +76,7 @@ __Current Job Title__, Current Employer
 __Current Job Title__, Current Employer 
 
 - Task
-- Task
-
- -->
+- Task-->
 
 <!-- ### Footer
 
