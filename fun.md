@@ -10,7 +10,7 @@ I like traveling, cooking, and playing with 'Sushi' (cat) during spare time. Her
 My husband and I recently drove our 'little red fat' from Boston to Los Angeles, 8-days, 3250 miles. The journey is tiring but rewarding. We saw many beautiful views and experienced many fun and cool stuffs. They are precious memories I will never forget. We are expecting the next road trip!
 
 ![Kingman Route 66 site](/my_pictures/kingman.jpg)
-![The entire route](/my_pictures/roadtrip3.png)
+![The entire route](/my_pictures/road_trip3.png)
 
 
 
