@@ -14,9 +14,18 @@ __Kingman Route 66 Site__![Kingman Route 66 site](/my_pictures/Kingman2.JPG)
 
 __The entire route__![The entire route](/my_pictures/road_trip3.png)
 
+## Cooking
+I am good at many kinds of Bunsik, Northeastern Chinese cuisian, and SiChuan cuisian. Let me know if you want to visit my home and enjoy a big meal. Haha...
+__My masterpiece__ ![My masterpiece](/my_pictures/Cooking.JPG)
 
 
-<center><img src = "https://github.com/bing-he/bing-he.github.io/tree/main/my_pictures/Kingman2.JPG" alt="Drawing" style="width: 600px;"/></center>
+## Playing with Sushi
+Because of Sushi, the pademic time is full of delight!
+__Sushi__ ![Sushi](/my_pictures/Sushi_photo.JPG)
+
+
+
+<!-- <center><img src = "https://github.com/bing-he/bing-he.github.io/tree/main/my_pictures/Kingman2.JPG" alt="Drawing" style="width: 600px;"/></center>
 <br/><br/>
-<center><iframe src="https://github.com/bing-he/bing-he.github.io/tree/main/my_pictures/road_trip3.png" width="590" height="480"></iframe></center>
+<center><iframe src="https://github.com/bing-he/bing-he.github.io/tree/main/my_pictures/road_trip3.png" width="590" height="480"></iframe></center> -->
         
