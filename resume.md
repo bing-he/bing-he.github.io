@@ -20,7 +20,7 @@ __Jilin University, Jilin, China__
 - Bachelor's Degree of Engineering in Applide Geophysics
 
 ## Awards
-`2022 & 2-19`
+`2022 & 2019`
 GSO Alumni Award, University of Rhode Island
 
 `2018`
@@ -39,7 +39,7 @@ Excellent Student Award, Jilin University
 2nd Class Scholarship, Jilin University
 
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+A list is also available [online](https://github.com/bing-he/bing-he.github.io/blob/main/my_pictures/Bing%20He_Resume.pdf)
  
 <!-- ### Journals
 
