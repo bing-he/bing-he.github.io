@@ -39,7 +39,7 @@ Excellent Student Award, Jilin University
 2nd Class Scholarship, Jilin University
 
 
-A long version is also available [__online__](https://github.com/bing-he/bing-he.github.io/blob/main/my_pictures/Bing%20He_Resume.pdf)
+__A long version is also available__ [__#online__](https://github.com/bing-he/bing-he.github.io/blob/main/my_pictures/Bing%20He_Resume.pdf)
  
 <!-- ### Journals
 
