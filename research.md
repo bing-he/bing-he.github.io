@@ -6,7 +6,7 @@ excerpt: "Research"
 
 __1. Detecting slow slip event from seafloor pressure data using machine learning__([here](https://github.com/bing-he/SSE_detection_using_machine_learning) for code and details)
 
-__2. Detecting tremors from ocean bottom seismic data__
+__2. Detecting tremors from ocean bottom seismic data__([here](https://github.com/bing-he/Tremor_detection) for code and details)
 
 __3. (Cooperation work) Separation of seismic signal using machine learning methods__ ([here](https://github.com/yinjiuxun/WaveDecompNet) for code and details)
 
