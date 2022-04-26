@@ -1,8 +1,9 @@
 ---
-layout: presentation-post-index
+layout: slide
 menutitle: Presentations
-menuorder: 2
 excerpt: "Recent Presentations"
+# theme: simple
+category: Oral presentation
 ---
 
 ### An oral presention in Ocean Science  `March 2022`
