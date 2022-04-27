@@ -4,7 +4,7 @@ title: Presentations
 excerpt: "Recent Presentations"
 ---
 
-### Oral presentations 
+#### Oral presentations 
 
 __He, B.__, Wei, X., Wei, M., Yang, S., & Alvarez, M.  _Detecting the slow slip events from the seafloor pressure data using machine learning method offshore southwest Alaska._  Presented at 2022 Ocean Science, February 24 - March 4, 2022, Hawaii
 
@@ -16,7 +16,7 @@ __He, B.__, Wei, M., Watts, R., Yang, S., & Alvarez, M.  _Detecting slow slip ev
 
 Since 2020
 
-### Poster presentations
+#### Poster presentations
 
 __He, B.__, Wei, X., Wei, M., Yang, S., & Alvarez, M.  _A likely slow slip event detected by seafloor pressure data osshore southwest Alaska in 2018._  Presented at 2022 GeoPRISM, April, 2022, Online
 
