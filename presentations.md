@@ -15,7 +15,7 @@ __He, B.__, Wei, M., Watts, R., Yang, S., & Alvarez, M.  _Detecting slow slip ev
 __He, B.__, Wei, M., Watts, R., Yang, S., & Alvarez, M.  _Detecting slow slip events in Alaska using seafloor pressure data from the AACSE array._  Presented at 2020 American Geophysical Union, December 14-18, 2020, Online
 
 
-__Poster presentations__
+### Poster presentations
 
 __He, B.__, Wei, X., Wei, M., Yang, S., & Alvarez, M.  _A likely slow slip event detected by seafloor pressure data osshore southwest Alaska in 2018._  Presented at 2022 GeoPRISM, April, 2022, Online
 
