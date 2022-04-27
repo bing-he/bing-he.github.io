@@ -1,9 +1,7 @@
 ---
-layout: post
-menutitle: Presentations
+layout:page
+title: Research
 excerpt: "Recent Presentations"
-# theme: simple
-category: Oral presentation
 ---
 
-#### An oral presention in Ocean Science  `March 2022`
+__An oral presention in Ocean Science__  `March 2022`
