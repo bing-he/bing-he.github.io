@@ -14,6 +14,7 @@ __He, B.__, Wei, M., Watts, R., Yang, S., & Alvarez, M.  _Detecting slow slip ev
 
 __He, B.__, Wei, M., Watts, R., Yang, S., & Alvarez, M.  _Detecting slow slip events in Alaska using seafloor pressure data from the AACSE array._  Presented at 2020 American Geophysical Union, December 14-18, 2020, Online
 
+Since 2020
 
 ### Poster presentations
 
@@ -21,3 +22,5 @@ __He, B.__, Wei, X., Wei, M., Yang, S., & Alvarez, M.  _A likely slow slip event
 
 __He, B.__, Wei, M., Watts, R., Donohue, K., Yang, S.,  _Apply machine learning to seafloor geodesy:
 detecting SSEs in ocean bottom pressure data using 1D convolutional neural networ._  Presented at 2nd Machine Learning in Solid Earth Geoscience, March 18-22, 2019, New Mexico
+
+Since 2019
