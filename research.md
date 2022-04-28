@@ -14,7 +14,7 @@ Tremor is characterized by emergent and persistent microseism and is usually acc
 
 __3. (Collabration) Separation of seismic signal using machine learning methods__ ([here](https://github.com/yinjiuxun/WaveDecompNet) for code and details)
 
-A seismogram is a record of how the ground moves and usually contains a rich mix of seismic signals. The transient signals capture the seismic process, and it is essential to understand earthquake mechanism. The ambient noise field is helpful in correlation seismology to extract spatial and temporal variations in the earth's structure. This work developed a multi-task encoder-decoder network named WaveDecompNet to directly separate transient signals from ambient signals. (Collabrate with seismologists from Harward University).
+A seismogram is a record of how the ground moves and usually contains a rich mix of seismic signals. The transient signals capture the seismic process, and it is essential to understand the earthquake mechanisms. The ambient noise field is helpful in correlation seismology to extract spatial and temporal variations in the earth's structure. This work developed a multi-task encoder-decoder network named WaveDecompNet to directly separate transient signals from ambient signals in the time domain. (Collabrate with seismologists from Harward University).
 
 __4. (Collaration) Removing the contributions from ocean water in seafloor pressure data__ ([Paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JB020065?casa_token=pm7yaa0JfL8AAAAA%3AN08nZQ5zYyyHFUU_PJWF3w8OX_8L2WynfDoox1YTn4kTTR2n9PQowsDSsobhubJXpA4ZTAkzgt7wA-Y) for details)
 
