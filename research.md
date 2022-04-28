@@ -10,14 +10,13 @@ Slow slip event is a special tectonic signal with strong energy compared to a Ma
 
 __2. Detecting tremors from ocean bottom seismic data__ ([here](https://github.com/bing-he/Tremor_detection) for code and details)
 
-Tremor is 
+Tremor is characterized by emergent and persistent microseism and is usually supposed to occur with slow slip events. Hours- to weeks-long tremors are easy to identify by visual and envelope correlation methods. However, isolated short-duration tremors can be challenging to distinguish from the earthquake and ambient noise signals, especially for noisy ocean bottom seismic data. This work incorporated the previous tremor detection methods and performed a transparent workflow to automatically detect tremors in ocean bottom seismic data, significantly reducing false detections from earthquakes, T-phases, and noise. 
 
 __3. (Cooperation work) Separation of seismic signal using machine learning methods__ ([here](https://github.com/yinjiuxun/WaveDecompNet) for code and details)
 
-A seismogram is a record of how the ground moves and usually contains a rich mix of different seismic signals. The transient signals capture the seismic process and it is essential to understand its mechanism. The ambient noise field is useful in correlation seismology to extract spatial and temporal variations in the Earth structur. This work developed a multi-task encoder-decoder network named WaveDecompNet to separate transient signals from ambient signals directly.
+A seismogram is a record of how the ground moves and usually contains a rich mix of seismic signals. The transient signals capture the seismic process, and it is essential to understand its mechanism. The ambient noise field is helpful in correlation seismology to extract spatial and temporal variations in the earth's structure. This work developed a multi-task encoder-decoder network named WaveDecompNet to directly separate transient signals from ambient signals. This work cooperates with seismologists from Harward University.
 
-
-__4. Removing the contributions from ocean water in seafloor pressure data__
+__4. (Cooperation work) Removing the contributions from ocean water in seafloor pressure data__
 
 __5. Building a 3D subduction zone model using CUBIT__
 
