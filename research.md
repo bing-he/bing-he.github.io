@@ -22,6 +22,6 @@ Seafloor pressure measurement is commonly used to measure the vertical seafloor 
 
 __5. Building a 3D subduction zone model using CUBIT__
 
-__6. Simulating the spontaneous earthquakes using PYLITH in 3D model__
+   __Simulating the spontaneous earthquakes using PYLITH in 3D model__
 
 
