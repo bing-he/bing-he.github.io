@@ -22,6 +22,6 @@ Seafloor pressure measurement is commonly used to measure the vertical seafloor 
 
 __5. Building a 3D subduction zone model using CUBIT__
 
-   __Simulating the spontaneous earthquakes using PYLITH in 3D model__ ([Paper1] (https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JB017541) [Paper2] (https://www.sciencedirect.com/science/article/abs/pii/S0012821X19303000?via%3Dihub) )
+   __Simulating the spontaneous earthquakes using PYLITH in 3D model__ ([Paper1](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JB017541) [Paper2](https://www.sciencedirect.com/science/article/abs/pii/S0012821X19303000?via%3Dihub) )
 
 (My Master's work) The largest earthquakes often occur on the shallow plate interface in subduction zones, usually accompanied with devastating ground shakings and tsunamis. For example, during the 2004 Sumatra Mw 9.3 earthquake and 2011 Tohoku-Oki Mw 9.0 earthquake, strong ground shakings and huge tsunamic waves caused large fatalities and property losses. Rupture prediction and hazard assessment in subduction zones are highly needed for society. We conduct dynamic rupture simulations in Nicoya Peninsula, Costa Rica. The simulated result shows a high coherence with geodetic observations in final slip, moment rate and rupture speed. The simulated rupture scenarios have great significance to help the rupture prediction and hazard assessments.
