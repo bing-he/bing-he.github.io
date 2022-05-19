@@ -21,7 +21,7 @@ owner:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: https://scholar.google.com/citations?hl=en&user=AnzCJXYAAAAJ&view_op=list_works&sortby=pubdate
   facebook: #username
   instagram: #username
   bing-verify:
