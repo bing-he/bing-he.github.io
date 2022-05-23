@@ -16,3 +16,4 @@ I am currently a Ph.D candidate at the Univerisity of Rhode Island.
 - Natural hazards
 - Machine learning
 - Data science / analytics
+- Data processing and visualization
