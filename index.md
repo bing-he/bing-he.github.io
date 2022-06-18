@@ -12,7 +12,7 @@ I am currently a Ph.D candidate at the Univerisity of Rhode Island.
 
 - Seafloor Geodesy
 - Slow slip event and tremor detection
-- Numerical simulation and observation of large earthquake
+- Numerical simulation and observation of large earthquakes
 - Natural hazards
 - Machine learning
 - Data science / analytics
